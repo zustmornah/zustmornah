@@ -1,5 +1,5 @@
 
-### Software Engineer
+### Software & Electrical Engineer
 
 Solving problems with a full-stack mindset
 
