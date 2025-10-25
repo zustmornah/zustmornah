@@ -1,3 +1,7 @@
-Hi there 👋
 
-Focused on being a valuable part of any team I'm on. Skilled in solving problems with Typescript, C/C++, Javascript, Angular, SQL, GCP + firebase(no-sql), HTML and CSS.
+### Software Engineer
+
+Solving problems with a full-stack mindset
+
+⚡ **Skills:** TypeScript, Golang, C/C++, Angular, React, SQL, GCP + Firestore
+📈 Committed to being a force multiplier for my team
